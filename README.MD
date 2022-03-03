@@ -1,0 +1,1 @@
+Started this project on 3rd March, 2022 with the aim of integrating all the REST APIs related to SMIT CSE into one optimized API resource.
